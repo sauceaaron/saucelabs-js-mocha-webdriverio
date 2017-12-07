@@ -1,0 +1,25 @@
+{
+  "name": "js-mocha-webdriverio",
+  "description": "Sample test framework using Sauce Labs with mocha and webdriverio",
+  "keywords": [
+    "Sauce Labs",
+    "Selenium",
+    "Webdriverio",
+    "Javascript"
+  ],
+  "version": "0.0.1",
+  "author": "Aaron Evans <aaron.evans@saucelabs.com>",
+  "license": "UNLICENSED",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sauceaaron/js-mocha-webdriverio.git"
+  },
+  "scripts": {
+    "test": "mocha-parallel-tests"
+  },
+  "devDependencies": {
+    "mocha": "^4.0.1",
+    "mocha-parallel-tests": "^1.2.10",
+    "webdriverio": "^4.9.11"
+  }
+}
