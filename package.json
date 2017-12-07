@@ -1,5 +1,5 @@
 {
-  "name": "js-mocha-webdriverio",
+  "name": "saucelabs-js-mocha-webdriverio",
   "description": "Sample test framework using Sauce Labs with mocha and webdriverio",
   "keywords": [
     "Sauce Labs",
