@@ -1,4 +1,15 @@
-#SauceLabs Sample Test Framework
+SauceLabs Sample Test Framework
+===============================
 
-Javascript, Mocha, Webdriverio
+using Javascript, Mocha, Webdriverio
  
+
+Install
+------------
+
+	npm install
+
+Run
+---
+
+	npm test
